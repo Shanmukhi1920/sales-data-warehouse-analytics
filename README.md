@@ -25,6 +25,7 @@ Comprehensive analytical approach covering:
 ### Advanced Analytics
 - **Change Over Time**: Monthly trends and seasonality
 - **Cumulative Analysis**: Running totals and progressive growth
+- **Profitability Analysis**: Which categories are most profitable
 - **Performance Analysis**: Product performance vs. benchmarks
 - **Part-to-Whole**: Category contribution analysis
 - **Data Segmentation**: Customer and product segmentation
