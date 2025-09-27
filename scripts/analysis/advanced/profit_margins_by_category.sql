@@ -1,3 +1,15 @@
+/*
+===============================================================================
+Profitability Analysis
+===============================================================================
+Purpose:
+    - To identify which product categories contribute the most profit, 
+      not just top-line sales.
+    - To support strategic decisions such as pricing, promotions, and 
+      product portfolio optimization.
+===============================================================================
+*/
+
 -- Profitability by Category
 SELECT p.category,
        SUM(f.sales_amount) AS revenue,
